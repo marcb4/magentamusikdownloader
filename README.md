@@ -116,5 +116,5 @@ ffmpeg -f concat -safe 0 -i mylist.txt -c copy CHANGEME.mp4
 Make sure that you edited the python scripts before! (Change XXX etc.)
 
 ```
-sh dl.sh
+sh script.sh
 ```
