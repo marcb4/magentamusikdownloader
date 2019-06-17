@@ -72,6 +72,7 @@ Make sure to delete everything after 'segment' in your link.
 
 So:
 > https://streaming-magenta-music-360.akamaized.net/vod/WHATEVER/hd/9000/segment8.ts
+
 becomes
 > https://streaming-magenta-music-360.akamaized.net/vod/WHATEVER/hd/9000/segment
 
