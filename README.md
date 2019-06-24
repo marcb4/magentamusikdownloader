@@ -21,12 +21,13 @@ CentOS/Scientific Linux
 # sudo yum install ffmpeg
 ```
 
+pip
+
 wget
 ```
 # pip install wget
 ```
 
-git (lol)
 
 ## Download
 ```
