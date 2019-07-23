@@ -13,3 +13,6 @@ sleep 1
 echo -e "\e[1;32mFinished! \e[0m"
 echo "File was formatted as mp4 and named OUTPUT.mp4"
 sleep 3
+echo "Cleaning up..."
+rm -f segment*
+echo -e "\e[1;32mFinished! \e[0m"
